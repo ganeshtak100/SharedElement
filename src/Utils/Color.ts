@@ -12,4 +12,5 @@ export const COLORS = {
   blackk2: '#080808',
   grey3: '#E8ECEA',
   red: 'red',
+  yellow:"yellow"
 };
